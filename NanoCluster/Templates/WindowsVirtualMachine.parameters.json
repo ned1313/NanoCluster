@@ -3,10 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": null
+            "value": "nedadmin"
         },
         "dnsNameForPublicIP": {
-            "value": null
+            "value": "nednano1"
+        },
+        "vmCount": {
+            "value": 2
+        },
+        "adminPassword": {
+            "value": "P!n3treecone"
         }
     }
 }
